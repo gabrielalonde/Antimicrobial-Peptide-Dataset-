@@ -1,6 +1,4 @@
-# ProjetoPIBIC
-
-Projeto PIBIC Extração das características físico-químicas de peptídeos com base na sequência de aminoácidos
+#Projeto PIBIC Extração das características físico-químicas de peptídeos antimicrobianos
 
 O objetivo do presente trabalho consiste em apresentar duas bases de peptídios, uma de peptídeos antimicrobianos e outro de  peptídeos não antimicrobianos que 
 contenha a sequência peptídica, a atividade e características físico-químicas para posterior treinamento de uma rede neural profunda baseada em grafos.
