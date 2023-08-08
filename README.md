@@ -1,4 +1,4 @@
-![image](https://github.com/gabrielalonde/Antimicrobial-Peptide-Dataset-/assets/138613530/6b2696b1-eeab-41dd-9c7f-329ba3331998)
+![capb1](https://github.com/gabrielalonde/Antimicrobial-Peptide-Dataset-/assets/138613530/dc072598-fbeb-4d8c-8ae0-5d639f971dcd)
 
 #Projeto PIBIC Extração das características físico-químicas de peptídeos antimicrobianos
 
