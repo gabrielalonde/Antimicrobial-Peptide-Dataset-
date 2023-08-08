@@ -1,3 +1,5 @@
+![image](https://github.com/gabrielalonde/Antimicrobial-Peptide-Dataset-/assets/138613530/6b2696b1-eeab-41dd-9c7f-329ba3331998)
+
 #Projeto PIBIC Extração das características físico-químicas de peptídeos antimicrobianos
 
 O objetivo do presente trabalho consiste em apresentar duas bases de peptídios, uma de peptídeos antimicrobianos e outro de  peptídeos não antimicrobianos que 
@@ -9,9 +11,11 @@ Foi realizada e extração das sequências peptídicas em bancos de dados public
 
 ![image](https://github.com/gabrielalonde/ProjetoPIBIC/assets/138613530/79e4fd4f-2a78-45a0-a06a-14387bfcc598)
 
-![image](https://github.com/gabrielalonde/ProjetoPIBIC/assets/138613530/df3eb055-4f2b-4825-8122-04984813714e)
+![image](https://github.com/gabrielalonde/Antimicrobial-Peptide-Dataset-/assets/138613530/5c57198e-0e10-4047-b367-e3b6f91772f8)
 
-![image](https://github.com/gabrielalonde/ProjetoPIBIC/assets/138613530/f0029f62-cbec-412c-bc3a-6b7a363bcf7c)
+![image](https://github.com/gabrielalonde/Antimicrobial-Peptide-Dataset-/assets/138613530/c5323853-f6de-4d1d-bc51-ca71ed3683ad)
+
+
 
 
 
